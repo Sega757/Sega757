@@ -1,5 +1,10 @@
-🧠 Sergey Bogdanov (Sega757)
-Principal / Staff Engineer | System Architect | AI Researcher
+# Sergey Bogdanov (Sega757)
+Principal / Staff AI Architect • Creator of META-CORE, AtomRAG, Chronos V3
+
+I design sovereign intelligent systems and multi-agent architectures.
+My work bridges AI reasoning, distributed systems, and cognitive transparency.
+
+
 
 🚀 About Me
 I’m a solo architect of hybrid intelligent systems, building bridges between AI, data engineering, and distributed systems.
