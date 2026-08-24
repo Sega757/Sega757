@@ -46,7 +46,3 @@ Intelligence and empathy operate as a single mechanism to buil
 
 🔗 Active Nodes
 GitHub: github.com/Sega757
-
-Kaggle: kaggle.com/segamega
-
-Gemini Notebook: ₼ System Status: ONLINE
